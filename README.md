@@ -1,1 +1,0 @@
-# SE_task_demo
